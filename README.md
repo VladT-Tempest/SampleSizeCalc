@@ -2,7 +2,7 @@
 calculate the sample size for a client survey
 
 An optical office has hired our services to conduct a patient satisfaction survey. Additionally, they want to evaluate the methods by which they find out about the services provided by the optician and the media in which they have seen advertising related to the brand.
-The exercise is about finding the sample size 
+The exercise is about finding the sample size.
 
 
 ## Concepts
